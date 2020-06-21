@@ -1,5 +1,5 @@
 # sudoku-solver
- This is sudoku solver based on alogorithms which broadly generate a random sudoku puzzle and solve it. User can also solve the puzzle
+ This is a sudoku solver based on algorithms that broadly generate a random sudoku puzzle and solve it. User can also solve the puzzle.
  The instructions will get you a copy of the project up and running on your local machine.
 
 
